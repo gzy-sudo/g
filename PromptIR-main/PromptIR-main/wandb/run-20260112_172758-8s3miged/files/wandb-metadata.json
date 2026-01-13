@@ -1,0 +1,28 @@
+{
+  "os":  "Windows-10-10.0.19045-SP0",
+  "python":  "CPython 3.8.20",
+  "startedAt":  "2026-01-12T09:27:58.211647Z",
+  "args":  [
+    "--de_type",
+    "derain"
+  ],
+  "program":  "train.py",
+  "codePath":  "train.py",
+  "codePathLocal":  "train.py",
+  "email":  "uuhu02889@gmail.com",
+  "root":  ".",
+  "host":  "DESKTOP-A896KJ4",
+  "executable":  "C:\\ProgramData\\anaconda3\\envs\\PromptIR-main\\python.exe",
+  "cpu_count":  10,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "214750457856",
+      "used":  "138837463040"
+    }
+  },
+  "memory":  {
+    "total":  "34088599552"
+  },
+  "writerId":  "8lgman8bhlna3owglb7epbb8wqxbj6dk"
+}

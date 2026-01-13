@@ -1,0 +1,57 @@
+_wandb:
+    value:
+        cli_version: 0.23.1
+        e:
+            8lgman8bhlna3owglb7epbb8wqxbj6dk:
+                args:
+                    - --de_type
+                    - derain
+                codePath: train.py
+                codePathLocal: train.py
+                cpu_count: 10
+                cpu_count_logical: 16
+                disk:
+                    /:
+                        total: "214750457856"
+                        used: "138837463040"
+                email: uuhu02889@gmail.com
+                executable: C:\ProgramData\anaconda3\envs\PromptIR-main\python.exe
+                host: DESKTOP-A896KJ4
+                memory:
+                    total: "34088599552"
+                os: Windows-10-10.0.19045-SP0
+                program: train.py
+                python: CPython 3.8.20
+                root: .
+                startedAt: "2026-01-12T09:27:58.211647Z"
+                writerId: 8lgman8bhlna3owglb7epbb8wqxbj6dk
+        m:
+            - "1": trainer/global_step
+              "6":
+                - 3
+              "7": []
+            - "2": '*'
+              "5": 1
+              "6":
+                - 1
+              "7": []
+        python_version: 3.8.20
+        t:
+            "1":
+                - 1
+                - 41
+                - 106
+            "2":
+                - 1
+                - 41
+                - 106
+            "3":
+                - 7
+                - 13
+                - 66
+            "4": 3.8.20
+            "5": 0.23.1
+            "8":
+                - 3
+            "12": 0.23.1
+            "13": windows-amd64
